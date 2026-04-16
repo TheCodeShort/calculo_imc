@@ -1,3 +1,5 @@
+package model;
+
 public class Persona implements Calculable {
 		/*atributos y se usa private para encapsular y que nadie las toque de afuera*/
 		/*ejemplo => alguien cambia el peso a -50*/
